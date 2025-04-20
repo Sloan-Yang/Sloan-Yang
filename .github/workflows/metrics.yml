@@ -1,7 +1,8 @@
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]  # 每天自动运行
-  workflow_dispatch:                # 手动运行也可以
+  schedule: [{ cron: "0 0 * * *" }]  # 每天自动更新
+  workflow_dispatch:                # 允许手动运行
 
 jobs:
   github-metrics:
@@ -12,7 +13,33 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Sloan-Yang
+
+          # 基础展示模块
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          repositories_affiliations: owner, collaborator
+          repositories_visibility: all  # ✅ 显示 private 仓库 commit 统计
+
+          # 语言比例（带详细信息）
           plugin_languages: yes
-          plugin_achievements: yes
+          plugin_languages_indepth: yes
+
+          # 活跃度网格（日历图）
           plugin_isocalendar: yes
+
+          # 成就徽章
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # Star 总览和最受欢迎项目
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # 互动性（你多久回复 PR/issue）
+          plugin_followup: yes
+
+          # 写了多少行代码
+          plugin_lines: yes
+
+          # 访问量数据（如果你有开源仓库）
+          plugin_traffic: yes
