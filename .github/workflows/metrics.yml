@@ -18,7 +18,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           repositories_affiliations: owner, collaborator
-          repositories_visibility: all  # ✅ 显示 private 仓库 commit 统计
+
 
           # 语言比例（带详细信息）
           plugin_languages: yes
