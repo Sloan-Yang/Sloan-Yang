@@ -1,4 +1,5 @@
-## Hi there 👋
+![Metrics](https://github.com/your-username/metrics/blob/master/metrics.svg)
+
 
 <!--
 **Sloan-Yang/Sloan-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
