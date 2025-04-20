@@ -1,4 +1,4 @@
-![Metrics](https://github.com/Sloan-Yang/Sloan-Yang/blob/main/metrics.svg)
+![Metrics](https://github.com/Sloan-Yang/Sloan-Yang/blob/main/github-metrics.svg)
 
 
 
