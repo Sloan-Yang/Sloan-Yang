@@ -1,7 +1,37 @@
-Hi there 👋, I'm an MPhil student at **ShanghaiTech University**, exploring the frontiers of **AIGC (AI-Generated Content)**.  
-My research focuses on **2D and 3D generation with diffusion models**, and I'm especially interested in how these technologies can empower **art and design**.  
-Outside of research, I find joy in both **drawing** and **programming** — blending creativity with computation is what inspires me most.
+## 👋 Hi, I'm Sloan-Yang
 
+🎓 I'm an MPhil student at **ShanghaiTech University**, focusing on **AI-Generated Content (AIGC)**.  
+🧠 My research explores **2D and 3D generation with diffusion models**, especially their application in **art and design**.  
+🎨 I enjoy blending creativity with computation — combining **drawing** and **programming** is what inspires me most.
+
+---
+
+### 🧰 Technologies & Tools
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Diffusers](https://img.shields.io/badge/diffusers-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+### 🔭 Current Focus
+
+- 🎨 Building multimodal generation pipelines combining **layout, sketch, and diffusion models**
+- 🧪 Exploring **3D-aware generation** and **cross-attention manipulation** in AIGC
+- ✍️ Writing thoughts on AIGC, visual design, and generative art
+
+---
+
+### 📫 How to reach me
+
+- 📧 yangshr2024 [at] shanghaitech.edu.cn  
+- 🌐 [My GitHub Page](https://sloan-yang.github.io)  
 
 
 
