@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Sloan-Yang</h1>
-
 <p align="center">
-I'm an MPhil student at <strong>ShanghaiTech University</strong>, exploring the frontiers of <strong>AIGC (AI-Generated Content)</strong>. <br>
+Hi there 👋, I'm an MPhil student at <strong>ShanghaiTech University</strong>, exploring the frontiers of <strong>AIGC (AI-Generated Content)</strong>. <br>
 My research focuses on <strong>2D and 3D generation with diffusion models</strong>, and I'm especially interested in how these technologies can empower <strong>art and design</strong>. <br>
 Outside of research, I find joy in both <strong>drawing</strong> and <strong>programming</strong> — blending creativity with computation is what inspires me most.
 </p>
----
+
 
 
 ![3D Profile](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/main/profile-3d-contrib/profile-night-rainbow.svg)
