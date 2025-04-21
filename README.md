@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm Sloan-Yang
 
 🎓 I'm an MPhil student at **ShanghaiTech University**, focusing on **AI-Generated Content (AIGC)**.  
-🧠 My research explores **2D and 3D generation with diffusion models**, especially their application in **art and design**.  
-🎨 I enjoy blending creativity with computation — combining **drawing** and **programming** is what inspires me most.
+🧠 My research explores **2D and 3D generation using diffusion models**, with a particular interest in their applications to **art, design, and interactive media**.  
+🎮 I'm passionate about **game development** and **real-time rendering**, and I enjoy experimenting with **game engines** like Unity, Unreal, and Bevy.  
+🎨 I love blending creativity with computation — combining **drawing**, **programming**, and **generative AI** is what inspires me most.
 
 ---
 
