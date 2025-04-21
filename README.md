@@ -1,4 +1,4 @@
-![Metrics](https://github.com/Sloan-Yang/Sloan-Yang/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Sloan-Yang/Sloan-Yang/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
