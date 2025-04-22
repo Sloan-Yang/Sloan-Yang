@@ -15,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.FUCKING_GH_TOKEN }}
           SHOW_UPDATED_DATE: true
-          SHOW_LOC_CHART: true
+          SHOW_LOC_CHART: false
           SHOW_PROJECTS: false
           SHOW_PROFILE_VIEWS: true
           SHOW_COMMIT: true
