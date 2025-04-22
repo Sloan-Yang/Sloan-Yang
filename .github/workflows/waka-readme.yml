@@ -21,3 +21,4 @@ jobs:
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE_PER_REPO: true
+          SHOW_LINES_OF_CODE: true
