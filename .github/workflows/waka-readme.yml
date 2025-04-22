@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # 每天北京时间 2:30am
+    - cron: '0 16 * * *'  # 每天北京时间 00:00 更新
   workflow_dispatch:
 
 jobs:
