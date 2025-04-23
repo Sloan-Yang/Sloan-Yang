@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sloan-Yang
+G## 👋 Hi, I'm Sloan-Yang
 
 🎓 I'm an MPhil student at **ShanghaiTech University**, focusing on **AI-Generated Content (AIGC)**.  
 🧠 My research explores **2D and 3D generation using diffusion models**, with a particular interest in their applications to **art, design, and interactive media**.  
@@ -122,24 +122,6 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ---
 
 
-
-## 🐍 GitHub Contribution Snake (All Themes Preview)
-
-| Default | GitHub Dark | GitHub Light |
-|--------|--------------|--------------|
-| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-default.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-github-dark.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-github-light.svg) |
-
-| React | Nord | Nord Light |
-|-------|------|------------|
-| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-react.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-nord.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-nord-light.svg) |
-
-| Gruvbox Dark | Gruvbox Light | Ayu |
-|--------------|---------------|-----|
-| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-gruvbox-dark.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-gruvbox-light.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-ayu.svg) |
-
-| Dracula | Breeze |
-|---------|--------|
-| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-dracula.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-breeze.svg) |
 
 
 
