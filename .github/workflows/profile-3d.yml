@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule: # 每两个小时运行一次（UTC时间）
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,5 +20,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || echo "No changes to commit"
           git push
