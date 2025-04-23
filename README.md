@@ -124,6 +124,9 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Sloan-Yang/Sloan-Yang/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sloan-Yang/Sloan-Yang/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://github.com/Sloan-Yang/Sloan-Yang/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 
