@@ -123,7 +123,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 
 
-## 🐍 Contribution Snake Animation Preview
+## 🐍 GitHub Contribution Snake (All Themes Preview)
 
 | Default | GitHub Dark | GitHub Light |
 |--------|--------------|--------------|
@@ -140,5 +140,6 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 | Dracula | Breeze |
 |---------|--------|
 | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-dracula.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-breeze.svg) |
+
 
 
