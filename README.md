@@ -124,6 +124,6 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sloan-Yang/Sloan-Yang/blob/output/github-contribution-grid-snake.svg)
 
 
