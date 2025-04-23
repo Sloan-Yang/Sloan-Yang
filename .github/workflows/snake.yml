@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0 点（北京时间早上 8 点）生成一次
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,24 +10,73 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
+      - name: generate snake (github default)
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Sloan-Yang
-          outputs: |
-            dist/snake-default.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
-            dist/snake-react.svg?palette=react
-            dist/snake-nord.svg?palette=nord
-            dist/snake-nord-light.svg?palette=nord-light
-            dist/snake-gruvbox-dark.svg?palette=gruvbox-dark
-            dist/snake-gruvbox-light.svg?palette=gruvbox-light
-            dist/snake-ayu.svg?palette=ayu
-            dist/snake-dracula.svg?palette=dracula
-            dist/snake-breeze.svg?palette=breeze
+          output_file: dist/snake-default.svg
 
-      - name: push generated svg to the output branch
+      - name: generate snake (github-dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-github-dark.svg?palette=github-dark
+
+      - name: generate snake (github-light)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-github-light.svg?palette=github-light
+
+      - name: generate snake (react)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-react.svg?palette=react
+
+      - name: generate snake (nord)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-nord.svg?palette=nord
+
+      - name: generate snake (nord-light)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-nord-light.svg?palette=nord-light
+
+      - name: generate snake (gruvbox-dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-gruvbox-dark.svg?palette=gruvbox-dark
+
+      - name: generate snake (gruvbox-light)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-gruvbox-light.svg?palette=gruvbox-light
+
+      - name: generate snake (ayu)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-ayu.svg?palette=ayu
+
+      - name: generate snake (dracula)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-dracula.svg?palette=dracula
+
+      - name: generate snake (breeze)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sloan-Yang
+          output_file: dist/snake-breeze.svg?palette=breeze
+
+      - name: push generated svgs
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
