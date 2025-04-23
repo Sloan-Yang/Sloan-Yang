@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天 UTC 0 点（北京时间早上 8 点）执行
+    #- cron: "0 0 * * *"  # 每天 UTC 0 点（北京时间早上 8 点）执行
   workflow_dispatch:
 
 jobs:
