@@ -122,11 +122,23 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ---
 
 
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sloan-Yang/Sloan-Yang/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://github.com/Sloan-Yang/Sloan-Yang/blob/output/github-contribution-grid-snake.svg">
-</picture>
+## 🐍 Contribution Snake Animation Preview
+
+| Default | GitHub Dark | GitHub Light |
+|--------|--------------|--------------|
+| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-default.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-github-dark.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-github-light.svg) |
+
+| React | Nord | Nord Light |
+|-------|------|------------|
+| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-react.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-nord.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-nord-light.svg) |
+
+| Gruvbox Dark | Gruvbox Light | Ayu |
+|--------------|---------------|-----|
+| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-gruvbox-dark.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-gruvbox-light.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-ayu.svg) |
+
+| Dracula | Breeze |
+|---------|--------|
+| ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-dracula.svg) | ![](https://raw.githubusercontent.com/Sloan-Yang/Sloan-Yang/output/dist/snake-breeze.svg) |
 
 
