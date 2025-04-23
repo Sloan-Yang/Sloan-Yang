@@ -56,6 +56,8 @@ G## 👋 Hi, I'm Sloan-Yang
 
 > 📦 634.4 kB Used in GitHub's Storage 
  > 
+> 🏆 122 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -114,7 +116,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2025 20:19:12 UTC
+ Last Updated on 23/04/2025 22:16:40 UTC
 <!--END_SECTION:waka-->
 
 ---
