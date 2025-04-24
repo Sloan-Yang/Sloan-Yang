@@ -1,36 +1,38 @@
-name: Generate Snake Animation
+#name: Generate Snake Animation
 
-on:
-  schedule:
+#on:
+  #schedule:
     #- cron: "0 0 * * *"  # 每天 UTC 0 点（北京时间早上 8 点）执行
-  workflow_dispatch:
+  #workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+#jobs:
+  #build:
+    #runs-on: ubuntu-latest
 
-    steps:
-      - name: generate snake svgs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Sloan-Yang
-          outputs: |
-            dist/snake-default.svg
-            dist/snake-github-dark.svg?palette=github-dark
-            dist/snake-github-light.svg?palette=github-light
-            dist/snake-react.svg?palette=react
-            dist/snake-nord.svg?palette=nord
-            dist/snake-nord-light.svg?palette=nord-light
-            dist/snake-gruvbox-dark.svg?palette=gruvbox-dark
-            dist/snake-gruvbox-light.svg?palette=gruvbox-light
-            dist/snake-ayu.svg?palette=ayu
-            dist/snake-dracula.svg?palette=dracula
-            dist/snake-breeze.svg?palette=breeze
+    #steps:
+#      - name: generate snake svgs
+        #uses: Platane/snk@v3
+        #with:
+          #github_user_name: Sloan-Yang
+          #outputs: |
+            #dist/snake-default.svg
+            #dist/snake-github-dark.svg?palette=github-dark
+            #dist/snake-github-light.svg?palette=github-light
+            #dist/snake-react.svg?palette=react
+            #dist/snake-nord.svg?palette=nord
+            #dist/snake-nord-light.svg?palette=nord-light
+            #dist/snake-gruvbox-dark.svg?palette=gruvbox-dark
+            #dist/snake-gruvbox-light.svg?palette=gruvbox-light
+            #dist/snake-ayu.svg?palette=ayu
+            #dist/snake-dracula.svg?palette=dracula
+            #dist/snake-breeze.svg?palette=breeze
 
-      - name: push generated svgs
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.FUCKING_GH_TOKEN }}
+      #- name: push generated svgs
+        #uses: crazy-max/ghaction-github-pages@v3
+        #with:
+          #target_branch: output
+          #build_dir: dist
+        #env:
+          #GITHUB_TOKEN: ${{ secrets.FUCKING_GH_TOKEN }}
+
+
