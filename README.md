@@ -1,4 +1,4 @@
-G## 👋 Hi, I'm Sloan-Yang
+👋 Hi, I'm Sloan-Yang
 
 🎓 I'm an MPhil student at **ShanghaiTech University**, focusing on **AI-Generated Content (AIGC)**.  
 🧠 My research explores **2D and 3D generation using diffusion models**, with a particular interest in their applications to **art, design, and interactive media**.  
