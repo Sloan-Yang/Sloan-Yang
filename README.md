@@ -46,7 +46,7 @@ G## 👋 Hi, I'm Sloan-Yang
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-593-blue)
 
@@ -54,7 +54,7 @@ G## 👋 Hi, I'm Sloan-Yang
 
 **🐱 My GitHub Data** 
 
-> 📦 634.8 kB Used in GitHub's Storage 
+> 📦 633.7 kB Used in GitHub's Storage 
  > 
 > 🏆 124 Contributions in the Year 2025
  > 
@@ -116,7 +116,7 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2025 06:25:05 UTC
+ Last Updated on 24/04/2025 08:22:44 UTC
 <!--END_SECTION:waka-->
 
 ---
