@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -60,7 +60,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -119,7 +119,7 @@ TeX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2025 06:23:29 UTC
+ Last Updated on 31/05/2025 08:21:18 UTC
 <!--END_SECTION:waka-->
 
 ---
