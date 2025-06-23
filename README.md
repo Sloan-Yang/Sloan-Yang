@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -54,9 +54,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 978.4 kB Used in GitHub's Storage 
+> 📦 985.4 kB Used in GitHub's Storage 
  > 
-> 🏆 435 Contributions in the Year 2025
+> 🏆 438 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,7 +119,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 14:18:51 UTC
+ Last Updated on 23/06/2025 16:23:39 UTC
 <!--END_SECTION:waka-->
 
 ---
