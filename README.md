@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -113,7 +113,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 14:16:17 UTC
+ Last Updated on 17/08/2025 16:20:45 UTC
 <!--END_SECTION:waka-->
 
 ---
