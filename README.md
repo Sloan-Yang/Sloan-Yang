@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,7 +56,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 556 Contributions in the Year 2025
+> 🏆 555 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,14 +91,14 @@ Sunday                   130 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      32 mins             █████████████████████░░░░   82.08 % 
-Git                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+TeX                      35 mins             █████████████████████░░░░   83.38 % 
+Git                      7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 
 🔥 Editors: 
-Neovim                   39 mins             █████████████████████████   100.00 % 
+Neovim                   43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -114,7 +114,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 16:22:44 UTC
+ Last Updated on 20/08/2025 18:26:10 UTC
 <!--END_SECTION:waka-->
 
 ---
