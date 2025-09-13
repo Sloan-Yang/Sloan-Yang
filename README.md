@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -55,8 +55,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 1.0 MB Used in GitHub's Storage 
- > 
-> 🏆 598 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -119,7 +117,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2025 06:22:10 UTC
+ Last Updated on 13/09/2025 08:19:38 UTC
 <!--END_SECTION:waka-->
 
 ---
