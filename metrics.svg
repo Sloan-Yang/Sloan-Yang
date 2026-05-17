@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MichalGeyer/plug-and-play</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation” (CVPR 2023)</div>
@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Darkbblue/generic-diffusion-feature</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official implementation of NeurIPS'24 paper Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features</div>
@@ -1589,7 +1589,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2026, 21:23:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2026, 22:59:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
