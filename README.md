@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C536%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C537%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -91,21 +91,21 @@ Sunday                   437 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 59 mins       █████████████████████░░░░   84.33 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 6 hrs 57 mins       ██████████████████████░░░   86.18 % 
+TeX                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 1 min         █████████████████████░░░░   84.68 % 
-Claude Code              1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Neovim                   7 hrs 35 mins       ████████████████████████░   94.04 % 
+Codex CLI                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 💻 Operating System: 
-Windows                  6 hrs 54 mins       █████████████████████░░░░   83.21 % 
-Linux                    1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Windows                  7 hrs 27 mins       ███████████████████████░░   92.47 % 
+Linux                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 15:27:38 UTC
+ Last Updated on 24/07/2026 19:26:51 UTC
 <!--END_SECTION:waka-->
 
 ---
