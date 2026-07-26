@@ -91,21 +91,21 @@ Sunday                   440 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 33 mins       █████████████████████░░░░   85.78 % 
-TeX                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Markdown                 9 hrs 38 mins       █████████████████████░░░░   83.77 % 
+TeX                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 12 mins      ███████████████████████░░   91.73 % 
-Codex CLI                49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Neovim                   10 hrs 29 mins      ███████████████████████░░   91.03 % 
+Codex CLI                56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Windows                  10 hrs 5 mins       ███████████████████████░░   90.59 % 
-Linux                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Windows                  10 hrs 21 mins      ██████████████████████░░░   89.93 % 
+Linux                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Mac                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +121,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 15:06:35 UTC
+ Last Updated on 26/07/2026 19:11:38 UTC
 <!--END_SECTION:waka-->
 
 ---
