@@ -46,7 +46,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C500%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C503%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2033%20mins-blue?style=flat)
 
@@ -93,44 +93,44 @@ Sunday                   441 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 33 mins       ███████████████████░░░░░░   76.95 % 
-TeX                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 8 hrs 34 mins       █████████████████████░░░░   83.74 % 
+TeX                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 18 mins       ██████████████████░░░░░░░   73.43 % 
-Codex CLI                1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Neovim                   8 hrs 19 mins       ████████████████████░░░░░   81.26 % 
+Codex CLI                1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-Windows                  5 hrs 18 mins       ██████████████████░░░░░░░   73.43 % 
-Linux                    1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Windows                  8 hrs 19 mins       ████████████████████░░░░░   81.26 % 
+Linux                    1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (21.55%)
+⏱ AI Coding Time: 1 hr 33 mins (15.2%)
 
-✍️ 937 lines written by AI, 837 lines written by hand (52.82% AI-written)
+✍️ 937 lines written by AI, 1,178 lines written by hand (44.3% AI-written)
 
 🔤 8,482,872 Input Tokens, 83,831 Output Tokens
 
 💵 $47.66 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 12 AI Prompts
+🧠 7 AI Sessions, 13 AI Prompts
 
 GPT                      937 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.82% of written lines came from AI
-📄 Detailed Prompter — average 828 characters per prompt
+⚖️ Balanced with AI — 44.3% of written lines came from AI
+📄 Detailed Prompter — average 949 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 49.24% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +146,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 14:35:49 UTC
+ Last Updated on 09/08/2026 18:41:29 UTC
 <!--END_SECTION:waka-->
 
 ---
