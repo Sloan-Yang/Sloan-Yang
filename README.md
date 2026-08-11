@@ -46,9 +46,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C505%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -93,44 +93,45 @@ Sunday                   441 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 14 mins      █████████████████████░░░░   84.29 % 
-TeX                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Markdown                 9 hrs 38 mins       ██████████████████░░░░░░░   70.07 % 
+Python                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+TeX                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 52 mins       ████████████████████░░░░░   81.31 % 
-Codex CLI                1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Neovim                   9 hrs 12 mins       █████████████████░░░░░░░░   66.91 % 
+Codex CLI                3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+VS Code                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Unknown Editor           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  9 hrs 52 mins       ████████████████████░░░░░   81.31 % 
-Linux                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Windows                  9 hrs 12 mins       █████████████████░░░░░░░░   66.91 % 
+Linux                    4 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 48 mins (14.95%)
+⏱ AI Coding Time: 3 hrs 57 mins (28.81%)
 
-✍️ 937 lines written by AI, 1,462 lines written by hand (39.06% AI-written)
+✍️ 1,438 lines written by AI, 1,238 lines written by hand (53.74% AI-written)
 
-🔤 8,619,445 Input Tokens, 87,516 Output Tokens
+🔤 9,482,566 Input Tokens, 149,031 Output Tokens
 
-💵 $49.06 Estimated AI Cost This Week
+💵 $56.51 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 21 AI Prompts
+🧠 13 AI Sessions, 59 AI Prompts
 
-GPT                      937 lines           █████████████████████████   100.00 % 
+GPT                      1,481 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 39.06% of written lines came from AI
-📄 Detailed Prompter — average 605 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 64.14% of changed lines were hand-edited
+⚖️ Balanced with AI — 53.74% of written lines came from AI
+📝 Concise Prompter — average 473 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 49.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -146,7 +147,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 15:00:40 UTC
+ Last Updated on 11/08/2026 19:04:24 UTC
 <!--END_SECTION:waka-->
 
 ---
