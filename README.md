@@ -66,6 +66,73 @@
  > 
 > 🔑 65 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                848 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+🌆 Daytime                1400 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌃 Evening                1312 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌙 Night                  309 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   540 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Tuesday                  648 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Wednesday                788 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Thursday                 485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Saturday                 490 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Sunday                   444 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
+Markdown                 2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+Other                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+TeX                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+
+🔥 Editors: 
+Codex CLI                4 hrs 20 mins       █████████████░░░░░░░░░░░░   51.14 % 
+VS Code                  2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+Neovim                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Unknown Editor           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+💻 Operating System: 
+Linux                    6 hrs 33 mins       ███████████████████░░░░░░   77.25 % 
+Windows                  1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 51 mins (69.02%)
+
+✍️ 3,818 lines written by AI, 1,282 lines written by hand (74.86% AI-written)
+
+🔤 4,448,270 Input Tokens, 411,650 Output Tokens
+
+💵 $83.54 Estimated AI Cost This Week
+
+🧠 39 AI Sessions, 215 AI Prompts
+
+GPT                      3,876 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 74.86% of written lines came from AI
+📄 Detailed Prompter — average 566 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 25.23% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +146,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:31:24 UTC
+ Last Updated on 22/08/2026 20:23:10 UTC
 <!--END_SECTION:waka-->
 
 ---
