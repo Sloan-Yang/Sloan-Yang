@@ -58,7 +58,7 @@
 
 > 📦 4.4 MB Used in GitHub's Storage 
  > 
-> 🏆 605 Contributions in the Year 2026
+> 🏆 606 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,43 +93,43 @@ Sunday                   483 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 28 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
-Markdown                 3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-TSV                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-HTML                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Other                    6 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.20 % 
+Markdown                 4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+TSV                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+HTML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-Codex CLI                5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
-Neovim                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Codex CLI                7 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.60 % 
+VS Code                  6 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.55 % 
+Neovim                   3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 
 💻 Operating System: 
-Linux                    10 hrs 54 mins      ██████████████████████░░░   86.87 % 
-Windows                  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Mac                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Linux                    13 hrs 57 mins      █████████████████████░░░░   82.15 % 
+Windows                  2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Mac                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (74.03%)
+⏱ AI Coding Time: 12 hrs 5 mins (71.18%)
 
-✍️ 0 lines written by AI, 13,839 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 13,889 lines written by hand (0.0% AI-written)
 
-🔤 1,829,455 Input Tokens, 222,217 Output Tokens
+🔤 3,136,989 Input Tokens, 305,958 Output Tokens
 
-💵 $61.82 Estimated AI Cost This Week
+💵 $73.34 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 171 AI Prompts
+🧠 31 AI Sessions, 218 AI Prompts
 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 394 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 403 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -146,7 +146,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 14:57:19 UTC
+ Last Updated on 14/10/2026 20:03:10 UTC
 <!--END_SECTION:waka-->
 
 ---
